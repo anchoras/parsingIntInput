@@ -6,6 +6,7 @@
 *.xml
 *.class
 # Target output ignored files
+**/out/**
 **/target/**
 # Datasource local storage ignored files
 /../../../../../../:\Users\Admin\IdeaProjects\SynteticInputParsing\.idea/dataSources/
