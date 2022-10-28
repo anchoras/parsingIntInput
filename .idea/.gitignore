@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+*.iml
+*.html
+*.xml
+*.class
+# Target output ignored files
+**/target/**
+# Datasource local storage ignored files
+/../../../../../../:\Users\Admin\IdeaProjects\SynteticInputParsing\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
